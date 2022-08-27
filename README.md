@@ -11,7 +11,7 @@
 -	Wrote a program in c to solve a maze that was inputted as a text file with the help of some data structures 
   and a Finite-state Machine
 
-#Controller for TC514 Precision Analog Front End         				           
+# Controller for TC514 Precision Analog Front End         				           
 -	wrote the controller to control the four phases of operation of a dual slope integrating ADC
 -	Designed using VHDL and ran on the Lattice LCMXO3L-6900C FPGA
 
