@@ -2,6 +2,12 @@
 # Keerthi portfolio 
 
 
+
+# Capstone Project (in progress) : Auto-Connect Wireless Monitor System for Electric Vehicles
+- Designing an embedded system to support and automated data communication link
+- link is established whenever RF module from car is close to RF module in charging station
+- Module is supposed to interface to both the charger, battery management system and the PC
+
 # Air Quality Board							                   		        	                        
 -	Designed PCB on Altium Designer that monitors CO2, temperature and humidity and displays values on an LCD
   and the computer using either USB or RS232
@@ -38,10 +44,6 @@
 - The final stabilizer was designed on SolidWorks and printed using a 3D printer
 - Won second price for three different categories: most market ready, good design principles, quality of poster presentation
 
-# Capstone Project (in progress) : Auto-Connect Wireless Monitor System for Electric Vehicles
-- Designing an embedded system to support and automated data communication link
-- link is established whenever RF module from car is close to RF module in charging station
-- Module is supposed to interface to both the charger, battery management system and the PC
 
 
 
