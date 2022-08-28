@@ -33,6 +33,8 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 -	Created an embedded system that utilized an external temperature sensor and the built-in ADC in the AVR128DB48 to measure and display the temperature on a seven-       segment display
 -	Learned how to read datasheets and basic embedded systems concepts such as polling, interrupts, debouncing and read-modify-write
 
+![Screenshot 2022-08-27 200847](https://user-images.githubusercontent.com/78990001/187053998-fbabcb6d-3233-4e19-9be0-a51067bf4d3c.png)
+
 # [Ant Maze](https://github.com/Adgamby/ESE_124_Project_S2021)   												 
 -	Wrote a program in C to solve a maze that was inputted as a text file with the help of some data structures 
   and a Finite-state Machine
