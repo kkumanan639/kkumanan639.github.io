@@ -48,6 +48,10 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
   <img width="" height="" src=https://user-images.githubusercontent.com/78990001/187054112-59308269-487a-4005-815b-ad8301541b26.jpg>
 </p>
 
+# [Percutaneous Endoscopic Gastronomy tube stabilizer](https://github.com/kkumanan639/PEG_Stabilizer)
+- Designed a device that stabilizes the tube for the percutaneous endoscopic gastronomy procedure
+- The final stabilizer was designed on SolidWorks and printed using a 3D printer
+- Won second price for three different categories: most market ready, good design principles, quality of poster presentation
 
 # [Ant Maze](https://github.com/Adgamby/ESE_124_Project_S2021)   												 
 -	Wrote a program in C to solve a maze that was inputted as a text file with the help of some data structures 
@@ -56,10 +60,7 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 # [Text Based Adventure Game](https://github.com/kkumanan639/Midterm_project)
 - Created a text based adventure game in C++ that utilizes different data structures like trees, queues, stacks and linked lists
 
-# [Percutaneous Endoscopic Gastronomy tube stabilizer](https://github.com/kkumanan639/PEG_Stabilizer)
-- Designed a device that stabilizes the tube for the percutaneous endoscopic gastronomy procedure
-- The final stabilizer was designed on SolidWorks and printed using a 3D printer
-- Won second price for three different categories: most market ready, good design principles, quality of poster presentation
+
 
 
 
