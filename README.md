@@ -28,6 +28,9 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 - Plotted the projected price of the stock as well as the buy rating
 - Utilized Python and its numpy and pandas library
 - Won best finance hack for HopperHacks 2022
+ 
+![medium](https://user-images.githubusercontent.com/78990001/187054309-a2c451fa-7f92-416b-ae6c-570dcfa92676.jpg)
+
 
 # [Controller for TC514 Precision Analog Front End](https://github.com/kkumanan639/TC514_Precision_Controller)         				           
 -	Wrote the controller to control the four phases of operation of a dual slope integrating ADC
