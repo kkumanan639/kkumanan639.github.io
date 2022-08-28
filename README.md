@@ -28,15 +28,15 @@
 -	Wrote the controller to control the four phases of operation of a dual slope integrating ADC
 -	Designed using VHDL and ran on the Lattice LCMXO3L-6900C FPGA
 
-# AVR Thermometer   						
+# [AVR Thermometer]{https://github.com/kkumanan639/Embedded_temperature_sensor}   						
 -	Created an embedded system that utilized an external temperature sensor and the built-in ADC in the AVR128DB48 to measure and display the temperature on a seven-       segment display
 -	Learned how to read datasheets and basic embedded systems concepts such as polling, interrupts, debouncing and read-modify-write
 
-# Ant Maze   												 
+# [Ant Maze]{https://github.com/Adgamby/ESE_124_Project_S2021}   												 
 -	Wrote a program in C to solve a maze that was inputted as a text file with the help of some data structures 
   and a Finite-state Machine
 
-# Text Based Adventure Game
+# [Text Based Adventure Game]{https://github.com/kkumanan639/Midterm_project}
 - Created a text based adventure game in C++ that utilizes different data structures like trees, queues, stacks and linked lists
 
 # Percutaneous Endoscopic Gastronomy tube stabilizer
