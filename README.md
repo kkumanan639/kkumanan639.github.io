@@ -8,7 +8,7 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 
 
 # Capstone Project (in progress) : Auto-Connect Wireless Monitor System for Electric Vehicles
-- Designing an embedded system to support and automated data communication link
+- Designing an embedded system to support an automated data communication link
 - Link is established whenever RF module from car is close to RF module in charging station
 - Module is supposed to interface to both the charger, battery management system and the PC
 
