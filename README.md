@@ -1,5 +1,9 @@
 ![301666125_402018248710698_1247784107181577666_n](https://user-images.githubusercontent.com/78990001/187053963-3ce1ead6-ae51-441a-92ba-12be911abf9f.jpg)
 
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/78990001/187053963-3ce1ead6-ae51-441a-92ba-12be911abf9f.jpg">
+</p>
+
 # About:
 Electrical Engineering and Physics student passionate about PCB design, embedded systems and power systems. Currently looking for entry level hardware roles. Other than that I love to run, play soccer and ultimate frisbee.
 
