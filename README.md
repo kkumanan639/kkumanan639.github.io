@@ -1,7 +1,7 @@
+![1604378464770](https://user-images.githubusercontent.com/78990001/187053871-4def09ef-198d-4d16-946e-48a9f415bd11.png)
 
-
-# Keerthi portfolio 
-
+# About:
+Electrical Engineering and Physics student passionate about PCB design, embedded systems and power systems. Currently looking for entry level hardware roles. Other than that I love to run, play soccer and ultimate frisbee.
 
 
 # Capstone Project (in progress) : Auto-Connect Wireless Monitor System for Electric Vehicles
