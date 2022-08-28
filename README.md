@@ -5,7 +5,7 @@
 
 
 # About:
-Electrical Engineering and Physics student passionate about PCB design, embedded systems and power systems. Currently looking for entry level hardware roles. Other than that I love to run, play soccer and ultimate frisbee.
+Electrical Engineering and Physics student passionate about PCB design, embedded systems and power systems. Currently looking for entry level hardware roles. Other than that I love to run, play soccer and ultimate frisbee. Things that currently interest me are RF circuits and PCB routing for RF and high speed digital circuits.
 
 
 # Capstone Project (in progress) : Auto-Connect Wireless Monitor System for Electric Vehicles
