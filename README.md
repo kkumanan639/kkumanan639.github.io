@@ -61,6 +61,8 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 - Designed a device that stabilizes the tube for the percutaneous endoscopic gastronomy procedure
 - The final stabilizer was designed on SolidWorks and printed using a 3D printer
 - Won second price for three different categories: most market ready, good design principles, quality of poster presentation
+
+
 ![Screenshot 2022-08-27 235255](https://user-images.githubusercontent.com/78990001/187056588-b00242d6-160c-410c-b06c-efc3b27b6a1a.png)
 
 ![Screenshot 2022-08-27 235331](https://user-images.githubusercontent.com/78990001/187056589-710b82e5-70a6-47a7-8990-6ff1f4fc01a3.png)
