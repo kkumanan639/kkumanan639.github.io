@@ -1,8 +1,6 @@
 
-<p align="center">
-  <img width="" height="" src=https://user-images.githubusercontent.com/78990001/187053963-3ce1ead6-ae51-441a-92ba-12be911abf9f.jpg>
-</p>
 
+![](https://user-images.githubusercontent.com/78990001/187053963-3ce1ead6-ae51-441a-92ba-12be911abf9f.jpg)
 
 # About:
 Electrical Engineering and Physics student passionate about PCB design, embedded systems and power systems. Currently looking for entry level hardware roles. Other than that I love to run, play soccer and ultimate frisbee. Things that currently interest me are RF circuits and PCB routing for RF and high speed digital circuits.
