@@ -13,7 +13,7 @@
   and the computer using either USB or RS232
 -	Design utilized design principles to minimize EMI, ground bounce and crosstalk
 
-# Air Quality System							                   		        	                        
+# [Air Quality System](https://github.com/kkumanan639/Air_Quality_System)							                   		        	                        
 -	Built system that monitors CO2, temperature and humidity and displays values on an LCD
 -	Design was implemented using an AVR128DB48 and was programmed in C
 -	Utilized I2C, SPI, USART communication protocols to interface to external peripherals
@@ -24,7 +24,7 @@
 - Utilized Python and its numpy and pandas library
 - Won best finance hack for HopperHacks 2022
 
-# Controller for TC514 Precision Analog Front End         				           
+# [Controller for TC514 Precision Analog Front End](https://github.com/kkumanan639/TC514_Precision_Controller)         				           
 -	Wrote the controller to control the four phases of operation of a dual slope integrating ADC
 -	Designed using VHDL and ran on the Lattice LCMXO3L-6900C FPGA
 
