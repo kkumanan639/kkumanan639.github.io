@@ -31,7 +31,6 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 
 ![Screenshot 2022-08-27 233147](https://user-images.githubusercontent.com/78990001/187056419-29143fa2-2d63-453d-bdc1-a7659541a479.png)
 
-![Screenshot 2022-08-27 233834](https://user-images.githubusercontent.com/78990001/187056423-ab630bbf-4aec-4480-b3fb-92a6d3626877.png)
 
 # [Stock Tracer Visualization Tool](https://devpost.com/software/stock-tracer)
 - Scraped Reddit and Twitter for mentions of the stock and looked at how it affected stock price
@@ -46,6 +45,8 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 -	Wrote the controller to control the four phases of operation of a dual slope integrating ADC
 -	Designed using VHDL and ran on the Lattice LCMXO3L-6900C FPGA
 
+![Screenshot 2022-08-27 233834](https://user-images.githubusercontent.com/78990001/187056423-ab630bbf-4aec-4480-b3fb-92a6d3626877.png)
+
 # [AVR Thermometer](https://github.com/kkumanan639/Embedded_temperature_sensor)   						
 -	Created an embedded system that utilized an external temperature sensor and the built-in ADC in the AVR128DB48 to measure and display the temperature on a seven-       segment display
 -	Learned how to read datasheets and basic embedded systems concepts such as polling, interrupts, debouncing and read-modify-write
@@ -59,6 +60,13 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 - Designed a device that stabilizes the tube for the percutaneous endoscopic gastronomy procedure
 - The final stabilizer was designed on SolidWorks and printed using a 3D printer
 - Won second price for three different categories: most market ready, good design principles, quality of poster presentation
+![Screenshot 2022-08-27 235255](https://user-images.githubusercontent.com/78990001/187056588-b00242d6-160c-410c-b06c-efc3b27b6a1a.png)
+
+![Screenshot 2022-08-27 235331](https://user-images.githubusercontent.com/78990001/187056589-710b82e5-70a6-47a7-8990-6ff1f4fc01a3.png)
+
+![Screenshot 2022-08-27 235409](https://user-images.githubusercontent.com/78990001/187056611-eebc8400-5663-412f-89ed-0ea31c53cbfb.png)
+
+
 
 # [Ant Maze](https://github.com/Adgamby/ESE_124_Project_S2021)   												 
 -	Wrote a program in C to solve a maze that was inputted as a text file with the help of some data structures 
