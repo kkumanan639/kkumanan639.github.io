@@ -38,13 +38,10 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 -	Created an embedded system that utilized an external temperature sensor and the built-in ADC in the AVR128DB48 to measure and display the temperature on a seven-       segment display
 -	Learned how to read datasheets and basic embedded systems concepts such as polling, interrupts, debouncing and read-modify-write
 
-<p align="center">
-  <img width="" height="" src=https://user-images.githubusercontent.com/78990001/187053998-fbabcb6d-3233-4e19-9be0-a51067bf4d3c.png>
-</p>
 
-<p align="center">
-  <img width="" height="" src=https://user-images.githubusercontent.com/78990001/187054112-59308269-487a-4005-815b-ad8301541b26.jpg>
-</p>
+![](https://user-images.githubusercontent.com/78990001/187053998-fbabcb6d-3233-4e19-9be0-a51067bf4d3c.png)
+
+![](https://user-images.githubusercontent.com/78990001/187054112-59308269-487a-4005-815b-ad8301541b26.jpg)
 
 # [Percutaneous Endoscopic Gastronomy tube stabilizer](https://github.com/kkumanan639/PEG_Stabilizer)
 - Designed a device that stabilizes the tube for the percutaneous endoscopic gastronomy procedure
