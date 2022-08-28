@@ -23,7 +23,7 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 -	Design was implemented using an AVR128DB48 and was programmed in C
 -	Utilized I2C, SPI, USART communication protocols to interface to external peripherals
 
-# [Stock Tracer visualization tool](https://devpost.com/software/stock-tracer)
+# [Stock Tracer Visualization Tool](https://devpost.com/software/stock-tracer)
 - Scraped Reddit and Twitter for mentions of the stock and looked at how it affected stock price
 - Plotted the projected price of the stock as well as the buy rating
 - Utilized Python and its numpy and pandas library
