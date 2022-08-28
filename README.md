@@ -1,7 +1,7 @@
 
-![](<p align="center">
+<p align="center">
   <img width="" height="" src=https://user-images.githubusercontent.com/78990001/187053963-3ce1ead6-ae51-441a-92ba-12be911abf9f.jpg>
-</p>)
+</p>
 
 
 # About:
