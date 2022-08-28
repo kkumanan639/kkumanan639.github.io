@@ -18,7 +18,7 @@
 -	Design was implemented using an AVR128DB48 and was programmed in C
 -	Utilized I2C, SPI, USART communication protocols to interface to external peripherals
 
-# Stock Tracer visualization tool
+# [Stock Tracer visualization tool](https://devpost.com/software/stock-tracer)
 - Scraped Reddit and Twitter for mentions of the stock and looked at how it affected stock price
 - Plotted the projected price of the stock as well as the buy rating
 - Utilized Python and its numpy and pandas library
@@ -39,7 +39,7 @@
 # [Text Based Adventure Game](https://github.com/kkumanan639/Midterm_project)
 - Created a text based adventure game in C++ that utilizes different data structures like trees, queues, stacks and linked lists
 
-# Percutaneous Endoscopic Gastronomy tube stabilizer
+# [Percutaneous Endoscopic Gastronomy tube stabilizer](https://github.com/kkumanan639/PEG_Stabilizer)
 - Designed a device that stabilizes the tube for the percutaneous endoscopic gastronomy procedure
 - The final stabilizer was designed on SolidWorks and printed using a 3D printer
 - Won second price for three different categories: most market ready, good design principles, quality of poster presentation
