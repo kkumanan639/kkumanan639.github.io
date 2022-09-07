@@ -42,6 +42,8 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 # [Controller for TC514 Precision Analog Front End](https://github.com/kkumanan639/TC514_Precision_Controller)         				           
 -	Wrote the controller to control the four phases of operation of a dual slope integrating ADC
 -	Designed using VHDL and ran on the Lattice LCMXO3L-6900C FPGA
+	
+![IMG_0046](https://user-images.githubusercontent.com/78990001/188986893-130db9e5-b12d-423c-9724-bd8358a24fa1.jpg)
 
 ![Screenshot 2022-08-27 233834](https://user-images.githubusercontent.com/78990001/187056423-ab630bbf-4aec-4480-b3fb-92a6d3626877.png)
 
