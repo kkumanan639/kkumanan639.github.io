@@ -1,6 +1,5 @@
-<p align="center">
-	<![301666125_402018248710698_1247784107181577666_n](https://user-images.githubusercontent.com/78990001/187057337-b614ebe0-3ece-443a-b599-9b6358daa523.jpg)>
-</p>
+
+<img align="right" width="100" height="100" src=![301666125_402018248710698_1247784107181577666_n](https://user-images.githubusercontent.com/78990001/187057337-b614ebe0-3ece-443a-b599-9b6358daa523.jpg)>
 
 # About:
 Electrical Engineering and Physics student passionate about PCB design, embedded systems and power systems. Currently looking for entry level hardware roles. Other than that I love to run, play soccer and ultimate frisbee. Things that currently interest me are RF circuits and PCB routing for RF and high speed digital circuits; especially routing PCB's to reduce EMI and EMC effects as it intersects my love for electromagentics from Physics and circuit design from Electrical Engineering.
