@@ -10,6 +10,10 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 - Link is established whenever RF module from car is close to RF module in charging station
 - Module is supposed to interface to both the charger, battery management system and the PC
 
+![EV_COMM_MODULE_SCH-1](https://user-images.githubusercontent.com/78990001/201541174-051b48e9-0770-4c22-9329-605960b039ca.jpg)
+![Screenshot 2022-11-13 144923](https://user-images.githubusercontent.com/78990001/201541267-e481e547-1b95-4107-a9e7-8f9004d1827b.png)
+
+
 # Air Quality Board							                   		        	                        
 -	Designed PCB on Altium Designer that monitors CO2, temperature and humidity and displays values on an LCD
   and the computer using either USB or RS232
@@ -31,6 +35,22 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 
 ![Screenshot 2022-08-27 233147](https://user-images.githubusercontent.com/78990001/187056419-29143fa2-2d63-453d-bdc1-a7659541a479.png)
 
+# RetroCrib
+- This project takes the Spotify API and a local MySQL server to store/query data for user's personalized bedrooms. This includes personalizing a user's rooms for different decades and sharing the bedroom artwork with friends.
+
+- We utilized many different sources and libraries in order to create this project, which include MySQL connector and Spotify APIs. The back-end includes a MySQL local server and python, and the front-end includes a react.js implementation
+
+![original](https://user-images.githubusercontent.com/78990001/201541537-f45071eb-f350-41cf-b151-7021aaf00f38.jpg)
+
+
+# BabblArt
+- BabblArt is a game slightly modelled after Pictionary - there is one player drawing a picture of a given word while the rest of the players have to guess what is being drawn. The main difference with BabblArt is that the program makes use of motion capture technology to guide the pen based on the position of the artist's head. In addition, players can adjust the thickness of their pen by altering their speaking volume. There are also different functionalities to change the pen color and clear the board. The rest of the players will compete to see who can determine the word represented by the picture in the least amount of time. There can only be one winner.
+
+- In building Babblart, we primarily utilized multiple open-source python libraries for purposes such as collecting face-tracking data and audio data, as well as threading for running concurrent processes. We also made heavy use of socket-programming libraries for communication between devices (host and clients).
+
+- The process was full of challenges. One such challenge was incorporating multi-threading to avoid latency between players and the drawing feed. Another issue that we had to work past was normalizing the input data so that the audio and facial recognition aspects had continuous data with little spikes/noise. This was extremely important because it led to better images being drawn and improved gameplay.
+
+
 
 # [Stock Tracer Visualization Tool](https://devpost.com/software/stock-tracer)
 - Scraped Reddit and Twitter for mentions of the stock and looked at how it affected stock price
@@ -50,8 +70,8 @@ Electrical Engineering and Physics student passionate about PCB design, embedded
 ![Screenshot 2022-08-27 233834](https://user-images.githubusercontent.com/78990001/187056423-ab630bbf-4aec-4480-b3fb-92a6d3626877.png)
 
 # [AVR Thermometer](https://github.com/kkumanan639/Embedded_temperature_sensor)   						
--	Created an embedded system that utilized an external temperature sensor and the built-in ADC in the AVR128DB48 to measure and display the temperature on a seven-       segment display
--	Learned how to read datasheets and basic embedded systems concepts such as polling, interrupts, debouncing and read-modify-write
+- Created an embedded system that utilized an external temperature sensor and the built-in ADC in the AVR128DB48 to measure and display the temperature on a seven-segment display
+- Learned how to read datasheets and basic embedded systems concepts such as polling, interrupts, debouncing and read-modify-write
 
 
 ![](https://user-images.githubusercontent.com/78990001/187053998-fbabcb6d-3233-4e19-9be0-a51067bf4d3c.png)
